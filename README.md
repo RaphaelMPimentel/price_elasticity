@@ -57,7 +57,7 @@ This project involves analyzing sales data from multiple merchants to identify t
    - Subplots for comparing trends across merchants.
 
 3. **Price Elasticity Calculation**
-   - Elasticity formula: 
+   - Elasticity formula: ![elasticity](images/elasticity.png)
    - Identification of inelastic and elastic products.
    - Product ranking by elasticity.
 
