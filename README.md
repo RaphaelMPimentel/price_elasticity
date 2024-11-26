@@ -8,6 +8,11 @@ This project involves analyzing sales data from multiple merchants to identify t
 
 ---
 
+#### **Interactive Dashboard**
+
+You can access the interactive dashboard to explore insights dynamically from here: https://price-app.streamlit.app
+![dashboard](images/dashboard.gif)
+
 #### **Project Structure**
 
 1. **Data Preparation**
@@ -82,8 +87,7 @@ This project involves analyzing sales data from multiple merchants to identify t
 #### **Next Steps**
 
 - Automate the pipeline for updating datasets and recalculating elasticity.
-- Incorporate additional features such as marketing campaigns or competitor pricing.
-- Deploy an interactive dashboard for stakeholders to explore insights dynamically. 
+- Incorporate additional features such as marketing campaigns or competitor pricing. 
 
 ---
 
