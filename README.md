@@ -11,6 +11,7 @@ This project involves analyzing sales data from multiple merchants to identify t
 #### **Interactive Dashboard**
 
 You can access the interactive dashboard to explore insights dynamically from here: https://price-app.streamlit.app
+
 ![dashboard](images/dashboard.gif)
 
 #### **Project Structure**
