@@ -107,7 +107,7 @@ Plataforma interativa desenvolvida para facilitar o acesso e análise dos dados:
 - **Simulação de receita com base em ajustes de preço**
 - **Recomendações de produtos complementares/substitutos**
   
-![dashboard](images/dashboard.gif)
+![dashboard](images/dashboard.png)
 
 ## Competências Demonstradas
 
